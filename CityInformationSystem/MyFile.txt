@@ -1,0 +1,11 @@
+Toronto|Ontario|Large urban|5647656|1829.05
+Montreal|Quebec|Large urban|3675219|1382.47
+Vancouver|British Columbia|Large urban|2426160|911.64
+Calgary|Alberta|Large urban|1305550|621.72
+Edmonton|Alberta|Large urban|1151635|627.2
+Red Deer|Alberta|Medium|99846|65.93
+Thunder Bay|Ontario|Medium|95266|76.03
+Innisfil|Ontario|Small|29464|23.71
+Timmins|Ontario|Small|28874|18.49
+Saint-Georges|Quebec|Small|27402|27.09
+Parksville|British Columbia|Small|27330|27.45
